@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Javier Andreu-Perez
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Lecturer (Assoc. Professor) in Human-Centred Artificial Intelligence. Chair of The Smart Health Technologies Group.
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of Essex
+  url: "https://www.essex.ac.uk/"
+- name: Centre for Computational Intelligence
+  url: "https://www.essex.ac.uk/centres-and-institutes/computational-intelligence"
+- name: The Smart Health Technologies Group
+  url: "https://www.essex.ac.uk/centres-and-institutes/computational-intelligence/smart-health-technologies-group"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
