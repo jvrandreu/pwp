@@ -30,6 +30,7 @@ interests:
 - Machine Learning / Deep Learning
 - Computational Cognitive Neuroscience
 - Neuro-engineering
+- Neurobilogy
 - Industrial Informatics
 
 education:
