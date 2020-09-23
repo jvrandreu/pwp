@@ -31,8 +31,8 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Intelligent Systems
+    institution: University of Essex
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
@@ -73,7 +73,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Javier Andreu-Perez (PhD, MSc, BSc, HEA, EPSRC ACM, SMIEEE) is Senior Lecturer (Assoc. Professor) and Chair of the Smart Health Technologies Group within the Centre for Computational Intelligence, University of Essex (UK). In the past I was postdoc researcher at Imperial College London (UK), where I was awarded best post-doc research in Computer Sciences (2017). I have also been awarded grants at national and international level, including support from IT corporations such as Amazon, Oracle, Nvidia. His research is within the field of Human-Centred Artificial Intelligence, that focus on the research and development problem-driven disruptive Artificial Intelligence to be used for and to enhance humans. Most of his research applications have had major impact in the fields of digital health, neuro-engineering, and industrial informatics. His scientific backgrounds are in the field of bio-inspired artificial intelligence ranging from Neural Networks and Evolutionary systems from a soft-computing treatment. Beyond problem-solving and performance, and great deal of my research focus on addressing questions of transparency, autonomy, bias and responsibility for the foreseen intelligent system. As a result of his large experience collaborating with the industry, he is also acquainted of DevOps and full-stack developer skills to transform theoretical research to tangible goods/services.
