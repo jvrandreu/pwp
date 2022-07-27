@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Tenured Senior Lecturer (Assoc. Professor) in Human-Centred Artificial Intelligence.
-role: Senior Talentia Research Fellow 
+role: Tenured Senior Lecturer (Assoc. Professor) and Senior Research Fellow in Human-Centred Artificial Intelligence.
 
 # Organizations/Affiliations
 organizations:
